@@ -1,0 +1,45 @@
+body{
+    /* s */
+}
+
+.welcomeBackground{
+background-image: url(images/amelia-barklid-CUmCByAhXyQ-unsplash.jpg);
+height: 100vh;
+background-repeat: no-repeat;
+background-size:cover;
+background-position:center;
+}
+
+.fs-1.text-center{
+color: #1A7997;
+font-weight:lighter;
+font-family: 'Solitreo', cursive;
+}
+
+.navText{
+    font-family: 'Sarina',cursive;
+    color:#1A7997
+}
+
+.welcomeText{
+    padding-top: 30vh;
+    font-family: 'Solitreo', cursive;
+    font-size:  5em;
+    color: white ;
+}
+.backgroundFooter{
+    background-color: black;
+}
+
+.aboutUsText{
+    color: #1A7997;
+    font-family:'Solitreo', cursive;;
+}
+
+.nav-link{
+    color: #1A7997;
+}
+.nav-link.active{
+    font-weight: bold;
+    color: #1A7997 !important;
+}
